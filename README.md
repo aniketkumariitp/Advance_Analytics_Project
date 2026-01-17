@@ -4,6 +4,9 @@ Welcome to an advanced SQL project that extracts powerful insights from sales da
 This project focuses on real-world **business intelligence** techniques for deriving **actionable analytics** using only SQL.
 
 ---
+## 📘 Live Documentation
+
+🔗 **Live Documentation:** https://aniketkumariitp.github.io/Advance_Analytics_Project/
 
 ## 🎯 Project Goal
 
